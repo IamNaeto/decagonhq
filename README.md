@@ -1,5 +1,5 @@
-# password-strength-checker
-- Decided to clone decagonhq websites. Decagon appears to be one of the top software engineering institute in Nigeria, haven dreamed of becoming a decadev which was just a dream that didn't come through, i decided to clone their website as a reminder that I onced dreamed of becoming a decadev. This project is still in progress....
+# decagonhq
+- Decided to clone decagonhq websites. Decagon appears to be one of the top software engineering institute in Nigeria, haven dreamed of becoming a decadev which was just a dream that didn't come through, I decided to clone their website as a reminder that I onced dreamed of becoming a decadev. This project is still in progress....
     
     - Live Link :: [Go Live](https://iamnaeto.github.io/decagonhq/)
     
